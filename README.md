@@ -47,7 +47,7 @@ The **AI Student Travel Planner** is a specialized web application designed for 
 
 ## 👨‍💻 Developed By
 
-**Raju Perumalla**
+**Rajeshwari Kotoju**
 *B.Tech (CSE) | Specialized in AI & Machine Learning*
 
 > Developed as a professional portfolio project to solve real-world student travel challenges through Generative AI.
